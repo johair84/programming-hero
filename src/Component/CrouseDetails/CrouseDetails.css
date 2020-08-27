@@ -1,0 +1,23 @@
+.crouseDetails{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+}
+
+.crouseDetails h3{
+    color: salmon;
+    
+}
+.crouseDetails h4{
+    color: blue;
+}
+.enrollBtn{
+    background-color: blueviolet;
+    color: white;
+    width: 150px;
+    height: 30px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}

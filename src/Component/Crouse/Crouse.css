@@ -1,0 +1,10 @@
+.crouse-container{
+    display: flex;
+}
+
+.crouseDetails-container{
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right: 1px solid lightgray;
+}
